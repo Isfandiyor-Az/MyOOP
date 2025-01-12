@@ -1,2 +1,2 @@
 # MyOOP
- My path of learning in C++
+ My path of learning Object-Oriented Programming (C++)
