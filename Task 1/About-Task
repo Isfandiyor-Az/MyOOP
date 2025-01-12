@@ -1,0 +1,14 @@
+Exe 1
+Write a program that outputs the message: "Hello Wolrd!".
+
+Exe 2
+Write a program in C++ that demonstrates the use of various data types by declaring and
+initializing variables.(Hint use int,float double,char and bool data types)
+
+Exe 3
+Write a program that calculate the Area of a Square and Prompt the user to enter the
+side length of a square.(Hint Computes the area using the formula: Area = side × side.)
+
+Execution Details:
+Use the cin object to read user input.
+Use the cout object to display output.
