@@ -1,2 +1,2 @@
 # MyOOP
- My journey how i learn c++ 
+ My path of learning in C++
