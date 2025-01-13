@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     // Exe 1
     int num1,num2,num3;// 1 2 3 
-    cout<<"Enter three numbers? ";
+    cout<<"Enter three numbers : ";
     cin>>num1>>num2>>num3;
 
     cout<<"The sum is "<<num1+num2+num3<<endl;
