@@ -3,7 +3,7 @@ using namespace std;
 #include <cmath>
 int main(){
     // Exe 1
-    int num1,num2,num3;// 1 2 3 
+    int num1,num2,num3; 
     cout<<"Enter three numbers : ";
     cin>>num1>>num2>>num3;
 
@@ -25,6 +25,7 @@ int main(){
         cout<<"The smallest is "<<num2<<endl;
     if (num3<num2 && num3<num1)
         cout<<"The smallest is "<<num3<<endl;
+        
     // Exe 2
     cout<<"Integer"<<"\t"<<"Square"<<"\t"<<"Cube"<<endl;
     cout<<0<<"\t"<<pow(0,2)<<"\t"<<pow(0,3)<<endl;
@@ -38,6 +39,7 @@ int main(){
     cout<<8<<"\t"<<pow(8,2)<<"\t"<<pow(8,3)<<endl;
     cout<<9<<"\t"<<pow(9,2)<<"\t"<<pow(9,3)<<endl;
     cout<<10<<"\t"<<pow(10,2)<<"\t"<<pow(10,3)<<endl;
+
     // Exe 3
     int total_km,per_gasoline,average_km;
     cout<<"Total km driven per day : ";
