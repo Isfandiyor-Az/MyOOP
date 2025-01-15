@@ -1,4 +1,4 @@
-# About Cpp-programming
+# About C++-programming language
  1.To appreciate the need for a programming language.
  2.To introduce the concept and usability of the structured programming.
  3.To develop proficiency in making useful software using the C++ language.
