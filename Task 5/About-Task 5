@@ -8,8 +8,7 @@ largest: The largest number found so far.
 
 Exe 2
 Write a C++ program that uses a for statement and the tab escape sequence
-\t to print the following table of values:
-![alt text](image.png)
+\t to print the following table of values: image.png
 
 Exe 3
 Write a Program to print stars Sequence1.
