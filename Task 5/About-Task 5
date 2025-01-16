@@ -1,0 +1,28 @@
+Exe 1
+The process of finding the largest number is used frequently in computer applications. For example, a program that determines the winner of a sales contest inputs the number of units sold by each salesperson. The salesperson who sells the most units wins the contest. Write a C++ program that uses a for statement to determine and print the largest number of 10 numbers input by the user. 
+Your program should use three variables, as follows:
+counter: A counter to count to 10 (i.e., to keep track of how many numbers have
+been input and to determine when all 10 numbers have been processed).
+number: The current number input to the program.
+largest: The largest number found so far.
+
+Exe 2
+Write a C++ program that uses a for statement and the tab escape sequence
+\t to print the following table of values:
+![alt text](image.png)
+
+Exe 3
+Write a Program to print stars Sequence1.
+*
+**
+***
+****
+*****
+
+Exe 4
+Write a  Program to print numbers Sequence2.
+    1
+   12 
+  123
+ 1234
+12345
