@@ -1,0 +1,17 @@
+Exe 1
+Write a program using function that use for statement,
+returns average of numbers from 1 to 10.
+
+Exe 2
+Write a function that takes an integer value and returns the number with its digits
+reversed. For example, given the number 7631, the function should return 1367.
+
+Exe 3
+(Celsius and Fahrenheit Temperatures) Implement the following integer functions:
+a) Function celsius returns the Celsius equivalent of a Fahrenheit temperature.
+b) Function fahrenheit returns the Fahrenheit equivalent of a Celsius temperature.
+c) Use these functions to write a program that prints charts showing the Fahrenheit
+equivalents of all Celsius temperatures from 0 to 100 degrees, and the Celsius
+equivalents of all Fahrenheit temperatures from 32 to 212 degrees. Print the 
+outputs in a neat tabular format that minimizes the number of lines of output while remaining readable.
+Hint: img.png
