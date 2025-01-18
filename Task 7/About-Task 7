@@ -1,0 +1,17 @@
+Exe 1
+Write a program to calculate area of following figures using function overloading
+1.Rectangle
+2.Triangle
+3.Square
+(Hint: 1. create 3 functions with same name area.
+2. Each function to calculate area of one figure.)
+
+Exe 2
+Write a function qualityPoints that inputs a student’s average and returns 4
+if a student’s average is 90–100, 3 if the average is 80–89, 2 if the average is 70–79, 1
+if the average is 60–69 and 0 if the average is lower than 60.
+
+Exe 3
+Write a program that uses a function templates called maximum and minimumto determine
+the larger and smaller of two arguments. Test the program using integer, character
+and floating point number arguments.
