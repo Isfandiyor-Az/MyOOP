@@ -30,7 +30,7 @@ int sum_digits(int start,int stop){
     return sum;
 }
 
-int gcd(int,int);
+int gcd(int,int); // This is a function prototype!
 int main(){
     // Exe 1
     int value=3;
