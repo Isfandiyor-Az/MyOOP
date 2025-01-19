@@ -1,0 +1,21 @@
+Exe 1
+Write a complete C++ program with the two alternate functions specified below,
+each of which simply triples the variable count defined in main. These two functions are
+a) function tripleByValue that passes a copy of count by value, triples the copy and
+returns the new value and
+b) function tripleByReference that passes count by reference via a reference parameter and
+triples the original value of count through its alias (i.e., the reference parameter).
+
+Exe 2
+Create a function that takes a range of numbers and returns the sum of the digits of the first and last numbers in the range.
+(Hint: digitsSum(1, 11) ➞ 48
+total numbers in the range are = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+sum of each digits is = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 1 +0+1+1 = 48 )
+
+Exe 3
+Find G.C.D for two integers using recursion
+(Hint:  The greatest common divisor of 12 and 26 can be calculated as:
+Divisors of 12 are 1, 2, 3, 4, 6, and 12.
+Divisors of 26 are 1, 2, 13, and 26.
+Common divisors of 12 and 26 are 1 and 2.
+The greatest common divisor of (12, 26) is 2.)
