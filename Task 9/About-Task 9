@@ -1,0 +1,14 @@
+Exe 1
+Write a function that returns the sum of elements greater than 10, in the given array.
+Find all the elements greater than 10, not the elements greater than or equal to 10.
+(Hint: sumTen([1, 5, 10, 30, 4, 9, 18]) ➞ 48	
+sumTen ([1, 2, 3, 8, 5]) ➞ 0)
+
+Exe 2
+Create a function that takes an array of numbers and sorted in ascending order (smallest
+to biggest).
+(Hint: sortNums([1, 2, 10, 50, 5]) ➞ [1, 2, 5, 10, 50])
+
+Exe 3
+You are given an array of scores. The even-indexed numbers are your scores at each turn.
+The odd-indexed numbers are your opponent's scores.
