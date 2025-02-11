@@ -12,3 +12,9 @@ to biggest).
 Exe 3
 You are given an array of scores. The even-indexed numbers are your scores at each turn.
 The odd-indexed numbers are your opponent's scores.
+Create a function that turns this list of scores into an array of who is currently winning.
+To illustrate (You - Y, Opponent - O):
+( Hint: Scores: [5, 10, 18, 30, 15, 40, 60, 14, 12, 10]
+Y scores: [5, 18, 15, 60, 12]
+O scores: [10, 30, 40, 14, 10]
+Who is currently winning: ["O", "O", "O", "Y", "Y"] )
