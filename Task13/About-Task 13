@@ -1,0 +1,7 @@
+1.Define a class Book with the following attributes:  bookID (int), title (string), author (string), price (float).
+2.Define the default constructor that initializes the attributes with default values like bookID = 0,
+title = "Unknown", author = "Unknown", and price = 0.0.
+3.Define Parameterized Constructor that Initializes book details. (bookID, title, author, price).
+4.Define Destructor: Display a message when a book is deleted. (“The book is deleted”)
+5.Define Display( ): Shows book details. (bookID, title, author, price).
+Create multiple Book objects with different details.
