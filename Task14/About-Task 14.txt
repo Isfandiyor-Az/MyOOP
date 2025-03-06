@@ -1,0 +1,12 @@
+1.Define a classes ATM, Account and Balance.
+2.ATM is using objects of class Account and Balance as members. 
+Class ATM has a composition relationship with class Account and Balance. 
+3.Private members of class Account: AccountName (string) and PinNumber (int).
+Define Parameterized Constructor that Initializes account details. (AccountName, PinNumber).
+Define Display( ): Shows account details.
+4.Private members of class Balance: Withdrawal(int), Deposit(int), and BalanceInquiry(int).
+Define Parameterized Constructor that Initializes account details. (Withdrawal, 
+Deposit, BalanceInquiry).
+Define Show( ): Shows balance details.
+5.The ATM class should define an Account & Balance object as private members of the ATM class.
+Use member functions of Account and Balance class to output user information.
