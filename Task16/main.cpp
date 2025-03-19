@@ -27,7 +27,7 @@ class Test : public Student{// Test inheriting from the Student class
         English = eng;
     }
 };
-class Result:public Test{ // Test inheriting from the Student class
+class Result:public Test{ // Result inheriting from Test class
     int Total; // private members
     float GPI;
     public:
