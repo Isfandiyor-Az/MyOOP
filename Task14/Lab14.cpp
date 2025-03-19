@@ -25,7 +25,14 @@ int main(){
         account1.english();
     }
     else if (chose_lan == 2){
-        cout<<"0";
+        int PinCode1;string CardName1;
+        cout<<"\nВведите ваш Пин код: ";
+        cin>>PinCode1;
+        cout<<endl;
+        cout<<"Введите ваш Имя карта: ";
+        cin>>CardName1;
+        Russian_ATM account1(CardName1,PinCode1);
+        account1.russian();
     }
     else if (chose_lan == 3){
         cout<<"o";}
